@@ -1,4 +1,4 @@
-# guess-my-number
-Small JS project for Learning purpose
+# DOM Manipulation
 
-Purpose of the project : DOM Manipulation in the JavaScript
+Small JS project for Learning purpose.
+Purpose of the project : DOM Manipulation in the JavaScript.
